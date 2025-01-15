@@ -8,6 +8,7 @@ public class Sample {
 		obj.greet();
 		obj.Wish();
 		obj.Employee();
+		obj.Student();
 	     
 		
 	}
@@ -23,5 +24,16 @@ System.out.println("Good Afternoon");
 	
 
 }
+ 
+ private void Student() {
+	System.out.println("Student");
+
+}
+ 
+ private void people() {
+	// TODO Auto-generated method stub
+
+}
+ 
 	
 }
