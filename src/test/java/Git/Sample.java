@@ -7,6 +7,7 @@ public class Sample {
 		
 		obj.greet();
 		obj.Wish();
+		obj.Employee();
 	     
 		
 	}
@@ -18,6 +19,9 @@ public class Sample {
 	private void Wish() {
 System.out.println("Good Afternoon");
 	}
+ private void Employee() {
+	
 
+}
 	
 }
