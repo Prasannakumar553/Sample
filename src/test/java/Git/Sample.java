@@ -30,5 +30,10 @@ System.out.println("Good Afternoon");
 
 }
  
+ private void people() {
+	// TODO Auto-generated method stub
+
+}
+ 
 	
 }
